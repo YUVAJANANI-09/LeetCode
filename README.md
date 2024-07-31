@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1260-day-of-the-year) |
 | [2032-largest-odd-number-in-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-ugly-number-iii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1307-ugly-number-iii) |
 | [1646-kth-missing-positive-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1168-duplicate-zeros) |
 | [2128-reverse-prefix-of-word](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2551-apply-operations-to-an-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -337,4 +340,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-check-if-it-is-a-good-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [2491-smallest-even-multiple](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2507-number-of-common-factors) |
+## Rolling Hash
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## String Matching
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## Hash Function
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 <!---LeetCode Topics End-->
