@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -174,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
