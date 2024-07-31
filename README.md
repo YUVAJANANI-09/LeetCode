@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3462-vowels-game-in-a-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sliding Window
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2032-largest-odd-number-in-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Backtracking
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Union Find
 |  |
 | ------- |
