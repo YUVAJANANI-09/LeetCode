@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1848-sum-of-unique-elements](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [2047-find-a-peak-element-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0755-reach-a-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0755-reach-a-number) |
 | [1307-ugly-number-iii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1307-ugly-number-iii) |
 | [1646-kth-missing-positive-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0200-number-of-islands) |
 | [1380-number-of-closed-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1380-number-of-closed-islands) |
+| [2047-find-a-peak-element-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
