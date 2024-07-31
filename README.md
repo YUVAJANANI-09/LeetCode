@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1848-sum-of-unique-elements](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2047-find-a-peak-element-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1332-count-vowels-permutation](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1332-count-vowels-permutation) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0200-number-of-islands) |
 | [1380-number-of-closed-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 ## Binary Indexed Tree
 |  |
 | ------- |
