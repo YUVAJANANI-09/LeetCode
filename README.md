@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
