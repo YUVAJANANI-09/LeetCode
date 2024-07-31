@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2491-smallest-even-multiple](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2507-number-of-common-factors) |
+| [3371-harshad-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3371-harshad-number) |
 ## Recursion
 |  |
 | ------- |
