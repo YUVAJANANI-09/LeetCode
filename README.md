@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0948-sort-an-array) |
 | [1168-duplicate-zeros](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1217-relative-sort-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1217-relative-sort-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0202-happy-number) |
+| [1217-relative-sort-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1217-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1217-relative-sort-array) |
 ## Tree
 |  |
 | ------- |
@@ -258,4 +261,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
