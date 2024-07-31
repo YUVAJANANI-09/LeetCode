@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1332-count-vowels-permutation](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1332-count-vowels-permutation) |
 ## Math
 |  |
 | ------- |
