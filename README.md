@@ -62,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0060-permutation-sequence) |
 ## Greedy
 |  |
 | ------- |
