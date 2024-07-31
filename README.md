@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0172-factorial-trailing-zeroes](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 ## Recursion
 |  |
 | ------- |
