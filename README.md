@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
