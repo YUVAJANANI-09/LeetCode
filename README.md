@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1646-kth-missing-positive-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0755-reach-a-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0755-reach-a-number) |
 | [1307-ugly-number-iii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1307-ugly-number-iii) |
+| [1646-kth-missing-positive-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
