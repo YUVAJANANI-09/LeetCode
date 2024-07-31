@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0149-max-points-on-a-line) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0149-max-points-on-a-line) |
 ## String
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0149-max-points-on-a-line) |
 ## Recursion
 |  |
 | ------- |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
