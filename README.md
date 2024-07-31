@@ -223,12 +223,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0200-number-of-islands) |
 | [1380-number-of-closed-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1380-number-of-closed-islands) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Geometry
 |  |
 | ------- |
