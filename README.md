@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0670-maximum-swap) |
 | [0755-reach-a-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0755-reach-a-number) |
+| [0856-consecutive-numbers-sum](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0856-consecutive-numbers-sum) |
 | [1013-fibonacci-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -232,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0493-reverse-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [0856-consecutive-numbers-sum](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0856-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
