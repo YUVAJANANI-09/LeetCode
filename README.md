@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,11 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -183,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
