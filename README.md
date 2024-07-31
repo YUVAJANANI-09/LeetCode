@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0065-valid-number) |
 ## Sliding Window
 |  |
 | ------- |
