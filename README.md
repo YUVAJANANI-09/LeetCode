@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
