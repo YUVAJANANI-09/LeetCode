@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2383-add-two-integers) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2491-smallest-even-multiple](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Recursion
 |  |
 | ------- |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0856-consecutive-numbers-sum) |
+| [2507-number-of-common-factors](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -326,4 +328,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-ugly-number-iii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1307-ugly-number-iii) |
 | [1372-check-if-it-is-a-good-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [2491-smallest-even-multiple](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
