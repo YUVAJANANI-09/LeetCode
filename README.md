@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0493-reverse-pairs) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0507-perfect-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1013-fibonacci-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
