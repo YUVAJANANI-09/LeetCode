@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2551-apply-operations-to-an-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3226-minimum-number-game](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0948-sort-an-array) |
+| [3226-minimum-number-game](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3226-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1642-water-bottles) |
 | [2551-apply-operations-to-an-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3226-minimum-number-game](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3226-minimum-number-game) |
 ## Memoization
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1217-relative-sort-array) |
+| [3226-minimum-number-game](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3226-minimum-number-game) |
 ## Tree
 |  |
 | ------- |
