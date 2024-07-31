@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0162-find-peak-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
 | ------- |
