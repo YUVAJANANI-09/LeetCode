@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-check-if-it-is-a-good-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1380-number-of-closed-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1635-number-of-good-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0202-happy-number) |
 | [1217-relative-sort-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1217-relative-sort-array) |
+| [1635-number-of-good-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1260-day-of-the-year) |
 | [1307-ugly-number-iii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1307-ugly-number-iii) |
 | [1372-check-if-it-is-a-good-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
+| [1635-number-of-good-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Union Find
 |  |
 | ------- |
