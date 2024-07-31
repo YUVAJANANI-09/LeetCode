@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3462-vowels-game-in-a-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2507-number-of-common-factors) |
 | [3371-harshad-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3371-harshad-number) |
+| [3462-vowels-game-in-a-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -353,4 +355,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
