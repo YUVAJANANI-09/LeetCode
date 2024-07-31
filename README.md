@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-count-vowels-permutation](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1332-count-vowels-permutation) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2397-count-number-of-ways-to-place-houses](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2397-count-number-of-ways-to-place-houses) |
 ## Math
 |  |
 | ------- |
