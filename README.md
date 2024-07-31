@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
