@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0507-perfect-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0507-perfect-number) |
 ## Recursion
 |  |
 | ------- |
