@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0948-sort-an-array) |
+| [1168-duplicate-zeros](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1168-duplicate-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0344-reverse-string) |
 | [0953-reverse-only-letters](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1168-duplicate-zeros](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1168-duplicate-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
