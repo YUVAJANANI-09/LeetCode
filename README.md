@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1848-sum-of-unique-elements](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1848-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0202-happy-number) |
 | [1217-relative-sort-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1217-relative-sort-array) |
 | [1635-number-of-good-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1848-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1848-sum-of-unique-elements) |
 ## Union Find
 |  |
 | ------- |
