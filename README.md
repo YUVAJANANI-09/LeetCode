@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0060-permutation-sequence) |
 | [1013-fibonacci-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1013-fibonacci-number) |
 ## Greedy
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
