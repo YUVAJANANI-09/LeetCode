@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0046-permutations) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0200-number-of-islands) |
 | [1380-number-of-closed-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1380-number-of-closed-islands) |
