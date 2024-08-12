@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0066-plus-one) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0045-jump-game-ii) |
 | [0670-maximum-swap](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0670-maximum-swap) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2032-largest-odd-number-in-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2032-largest-odd-number-in-string) |
