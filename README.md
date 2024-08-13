@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0344-reverse-string) |
 | [0953-reverse-only-letters](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1260-day-of-the-year](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1260-day-of-the-year) |
+| [1894-merge-strings-alternately](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0344-reverse-string) |
 | [0953-reverse-only-letters](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1168-duplicate-zeros](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1894-merge-strings-alternately](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2551-apply-operations-to-an-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
