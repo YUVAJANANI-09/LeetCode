@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2047-find-a-peak-element-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2350-find-closest-number-to-zero](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2551-apply-operations-to-an-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3226-minimum-number-game) |
