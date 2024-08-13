@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1260-day-of-the-year](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1260-day-of-the-year) |
 | [1894-merge-strings-alternately](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1168-duplicate-zeros](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1332-count-vowels-permutation](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1332-count-vowels-permutation) |
