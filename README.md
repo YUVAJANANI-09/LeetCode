@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0242-valid-anagram) |
+| [0782-jewels-and-stones](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1217-relative-sort-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0392-is-subsequence) |
+| [0782-jewels-and-stones](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1260-day-of-the-year](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1297-maximum-number-of-balloons) |
