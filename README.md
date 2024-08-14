@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0079-word-search) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1642-water-bottles) |
 | [2551-apply-operations-to-an-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0200-number-of-islands) |
 | [1380-number-of-closed-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1380-number-of-closed-islands) |
