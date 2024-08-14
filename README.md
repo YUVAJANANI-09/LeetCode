@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0283-move-zeroes) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1217-relative-sort-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1217-relative-sort-array) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1217-relative-sort-array) |
