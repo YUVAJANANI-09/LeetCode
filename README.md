@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0493-reverse-pairs) |
+| [0682-baseball-game](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0682-baseball-game) |
 | [0948-sort-an-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0682-baseball-game) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Linked List
 |  |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1642-water-bottles) |
 | [2551-apply-operations-to-an-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3226-minimum-number-game) |
