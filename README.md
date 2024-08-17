@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1217-relative-sort-array) |
 | [1372-check-if-it-is-a-good-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1019-squares-of-a-sorted-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1217-relative-sort-array) |
 | [3226-minimum-number-game](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3226-minimum-number-game) |
 ## Tree
