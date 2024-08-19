@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0075-sort-colors) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0493-reverse-pairs) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
