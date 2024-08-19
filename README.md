@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0079-word-search) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0055-jump-game) |
 | [0670-maximum-swap](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0670-maximum-swap) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2032-largest-odd-number-in-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2032-largest-odd-number-in-string) |
