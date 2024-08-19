@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0075-sort-colors) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0079-word-search) |
 ## Stack
 |  |
