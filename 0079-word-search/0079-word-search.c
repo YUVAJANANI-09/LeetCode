@@ -1,44 +1,25 @@
-bool dfsb(char **board, int mrow, int mcol, char *word, int crow, int ccol)
-{
-    //This mean we are done with search
-    if ((word[0] == '\0'))
+bool backtrack(char** board, int boardSize, int boardColSize, int r, int c,
+               char* word, int wordIdx) {
+    if (wordIdx == strlen(word))
         return true;
-    //out of bound check; here mean search end in this path
-    if (crow < 0 || ccol <0 || crow >= mrow || ccol >= mcol)
+    if (r < 0 || c < 0 || r >= boardSize || c >= boardColSize ||
+        board[r][c] != word[wordIdx])
         return false;
-    // Not found ; search end    
-    if (board[crow][ccol] != word[0])
-    {
-        return false;
-    }
-    // here mean board[crow][ccol] == word[0]
-    // mark it
-    board[crow][ccol] = ".";
-    //now check adjucent cell
-    //same row next col
-    if (dfsb(board, mrow, mcol, word+1, crow, ccol+1 ))
-        return true;
-    //same row prev col
-    if (dfsb(board, mrow, mcol, word+1, crow, ccol-1))
-        return true;
-    //down row same col
-    if (dfsb(board, mrow, mcol, word+1, crow-1, ccol))
-        return true;
-    //up row same col
-    if (dfsb(board, mrow, mcol, word+1, crow+1, ccol))
-        return true;
-
-    // Here mean we did not found any match so undo 
-    board[crow][ccol] = word[0];
+    board[r][c] = '$';
+    int x[4] = {0, 1, 0, -1};
+    int y[4] = {1, 0, -1, 0};
+    for (int j = 0; j < 4; j++)
+        if (backtrack(board, boardSize, boardColSize, r + x[j], c + y[j], word,
+                      wordIdx + 1))
+            return true;
+    board[r][c] = word[wordIdx];
     return false;
 }
 
-bool exist(char** board, int num_rows, int* num_cols, char* word) 
-{
-    for (int row = 0; row < num_rows; ++row)
-        for (int col = 0; col < *num_cols; ++col)
-            if (dfsb(board, num_rows, *num_cols, word, row, col))
+bool exist(char** board, int boardSize, int* boardColSize, char* word) {
+    for (int r = 0; r < boardSize; r++)
+        for (int c = 0; c < *boardColSize; c++)
+            if (backtrack(board, boardSize, *boardColSize, r, c, word, 0))
                 return true;
-                
     return false;
 }
