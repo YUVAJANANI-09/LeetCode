@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0112-path-sum) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2384-root-equals-sum-of-children](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0200-number-of-islands) |
 | [1380-number-of-closed-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0200-number-of-islands) |
 | [1380-number-of-closed-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1380-number-of-closed-islands) |
 ## Binary Tree
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0112-path-sum) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2384-root-equals-sum-of-children](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Geometry
