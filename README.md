@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0392-is-subsequence) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0089-gray-code) |
+| [0095-unique-binary-search-trees-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Stack
 |  |
 | ------- |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -590,5 +594,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
