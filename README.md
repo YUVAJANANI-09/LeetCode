@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2384-root-equals-sum-of-children](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0200-number-of-islands) |
 | [1380-number-of-closed-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2384-root-equals-sum-of-children](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Geometry
