@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0169-majority-element) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0344-reverse-string) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Sorting
@@ -663,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0139-word-break) |
 ## Prefix Sum
 |  |
 | ------- |
