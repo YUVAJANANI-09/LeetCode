@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2384-root-equals-sum-of-children](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0200-number-of-islands) |
 | [1380-number-of-closed-islands](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2384-root-equals-sum-of-children](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Geometry
