@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0137-single-number-ii) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/YUVAJANANI-09/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1013-fibonacci-number) |
