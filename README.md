@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/YUVAJANANI-09/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/YUVAJANANI-09/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/YUVAJANANI-09/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
